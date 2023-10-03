@@ -7,14 +7,19 @@ const data = [
     model: "admin",
     documents: [
       {
-        email: "peter@gmail.com",
-        firstName: "Dele",
-        lastName: "Taiwo",
+        email: "gvutong@gmail.com",
+        firstName: "Godswill",
+        lastName: "Utong",
       },
       {
-        email: "lekan@gmail.com",
-        firstName: "Esther",
-        lastName: "falade",
+        email: "daniel@gmail.com",
+        firstName: "Daniel",
+        lastName: "Edet",
+      },
+      {
+        email: "peter@gmail.com",
+        firstName: "Peter",
+        lastName: "Eze",
       },
     ],
   },
